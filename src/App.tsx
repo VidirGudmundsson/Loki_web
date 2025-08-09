@@ -8,7 +8,6 @@ import { ProfileManagement } from "./components/ProfileManagement";
 import { NFCScanScreen } from "./components/NFCScanScreen";
 import { ActiveBlockingScreen } from "./components/ActiveBlockingScreen";
 import { AppSelectionScreen } from "./components/AppSelectionScreen";
-import exampleImage from "figma:asset/3a3d41dd286903eb1cbf61701450346134c671ad.png";
 
 export type Profile = {
   id: string;
